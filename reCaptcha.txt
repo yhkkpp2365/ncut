@@ -9,7 +9,8 @@
 						
 		
 		<div id="recaptcha">
-			<div class="g-recaptcha"data-sitekey="6LeIX8kUAAAAAArUWiZos8HCSqVSl6cbiw5cplSu" data-callback="restoreCss"></div>
+			<div class="g-recaptcha"data-sitekey="6LfDX8kUAAAAAD2wMGa1eH1b2_g4PYuqDv3iA6l2
+" data-callback="restoreCss"></div>
 			<input type="hidden" class="hiddenRecaptcha" name="hiddenRecaptcha" id="hiddenRecaptcha">
 			
 			<script> 
